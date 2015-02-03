@@ -1,6 +1,6 @@
 package com.shippable
 
-class HelloWorld {
+class HelloWorldiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii {
    def main(args: Array[String]) {
       println("Hello, world!")
       println(square(10))
